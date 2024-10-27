@@ -7,6 +7,7 @@
 - ⚡ Fun fact: ...
 
 <!---
-ranjosken/ranjosken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ranjosken/ranjosken is a ✨ special ✨  at your changes.
 --->
+repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look
